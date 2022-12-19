@@ -87,6 +87,7 @@ body {
 
 body {
   color: rbg(--foreground-rgb);
+  font-family: 'JetBrains Mono';font-size: 22px;
   background: linear-gradient(
       to bottom,
       transparent,
