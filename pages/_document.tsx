@@ -6,6 +6,7 @@ export default function Document() {
        <link href='https://fonts.googleapis.com/css?family=JetBrains Mono' rel='stylesheet'/>
       <Head />
       <body>
+        
         <Main />
         <NextScript />
       </body>
